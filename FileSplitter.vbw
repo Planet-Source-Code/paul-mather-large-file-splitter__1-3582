@@ -1,0 +1,7 @@
+frmMain = 0, 0, 528, 373, C, 22, 22, 550, 395, C
+basMain = 44, 44, 572, 417, C
+basCommonDialog = 0, 0, 553, 444, C
+ctlProgress = 44, 44, 528, 488, C, 44, 44, 528, 488, C
+basFloppyCopy = 132, 132, 648, 499, C
+frmSplash = 22, 22, 538, 389, C, 0, 0, 516, 367, C
+basRegistry = 0, 0, 0, 0, C
